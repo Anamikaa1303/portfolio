@@ -21,8 +21,11 @@ _ _ _
 📁 Features
 
 ✅ Fully responsive design for all devices
+
 ✅ Clean UI with smooth navigation
+
 ✅ Sections for About, Projects, Skills,Education and Contact
+
 ✅ Easily customizable and expandable project structure
 
 
