@@ -3,6 +3,8 @@
 Welcome to my personal portfolio website, built using React.js and Tailwind CSS.
 This website showcases my projects, skills, and contact information in a clean, modern, and fully responsive design.
 
+_ _ _
+
 
 🛠️ Tech Stack
 
@@ -12,6 +14,10 @@ This website showcases my projects, skills, and contact information in a clean, 
 
 🌐 Vercel – For fast and seamless deployment
 
+
+_ _ _
+
+
 📁 Features
 
 ✅ Fully responsive design for all devices
@@ -20,11 +26,17 @@ This website showcases my projects, skills, and contact information in a clean, 
 ✅ Easily customizable and expandable project structure
 
 
+_ _ _ 
+
+
 🚀 Getting Started
 
 Clone the repository and run it locally:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm start
+💎git clone https://github.com/your-username/your-repo-name.git
+
+💎 cd your-repo-name
+
+💎npm install
+
+💎npm start
